@@ -83,7 +83,7 @@
         color: black;
         font-family: arial;
         font-weight: bold;
-        font-size: 20px;
+        font-size: 100%;
         margin: 40px 0px 0px 135px;
     }
 
@@ -95,3 +95,4 @@
         border-left: 125px solid #0450b3;
         border-right: 125px solid #0450b3;
     }
+
