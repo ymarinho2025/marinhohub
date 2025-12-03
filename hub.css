@@ -15,10 +15,10 @@
         color: #e07918f8;
     }
 
-    img {
+    .mascote {
         height: 150px;
         width: 150px;
-        margin: -90px 20px 0px -10px;
+        margin: -150px 20px 0px -10px;
     }
 
     .marinhohub {
@@ -30,25 +30,25 @@
 
     .cursos {
         width: 200px;
-        margin: -95px 20px 0px 520px;
+        margin: -95px 20px 0px 470px;
         text-align: center;
     }
 
     .certificado {
         width: 200px;
-        margin: -45px 20px 0px 780px;
+        margin: -45px 20px 0px 715px;
         text-align: center;
     }
 
     .sobremim {
         width: 200px;
-        margin: -45px 20px 0px 1045px;
+        margin: -45px 20px 0px 967px;
         text-align: center;
     }
 
     .links {
         width: 200px;
-        margin: -45px 20px 0px 1300px;
+        margin: 15px 20px 0px 470px;
         text-align: center;
     }
     
@@ -63,7 +63,7 @@
 
     .bemvindo {
         width: 230px;
-        margin: 5px 20px 0px 1266px;
+        margin: -45px 20px 0px 700px;
         text-align: center;
     }
 
@@ -72,12 +72,26 @@
         font-size: 20px;
         text-align: center;
         width: 230px;
-        margin: 10px 20px 0px 1266px;
+        margin: -56px 20px 0px 955px;
     }
 
     .texto {
-        color: white;
+        width: 900px;
+        text-align: center;
+        background-color: white;
+        border: 5px solid black;
+        color: black;
         font-family: arial;
-        font-style: bold;
-        font-size: 30px;
+        font-weight: bold;
+        font-size: 20px;
+        margin: 40px 0px 0px 135px;
+    }
+
+    .formatura {
+        height: 400px;
+        width: 650px;
+        margin: 0px 0px 0px 143px;
+        border: 10px solid black;
+        border-left: 125px solid #0450b3;
+        border-right: 125px solid #0450b3;
     }
